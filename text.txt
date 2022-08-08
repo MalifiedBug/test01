@@ -1,0 +1,7 @@
+//pushing code to github 
+
+
+1. gitbash
+2. gutdesktop
+3. gitbash-clone
+4. vs code pushing
